@@ -299,6 +299,12 @@ Edit the text to match who can attend the workshop. For instance:
 
 <hr/>
 
+<h2 id="registration">Registration</h2>
+<div class="list-group">
+  <a href="https://calendar.library.unt.edu/event/15951624" class="list-group-item list-group-item-warning">Register for this workshop via the UNT Library Calendar Event Page</a>
+</div>
+<hr/>
+
 {% comment%}
 CODE OF CONDUCT
 {% endcomment %}
